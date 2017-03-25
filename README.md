@@ -1,7 +1,9 @@
-# Learning Redux for React
+# React-Redux Simple Book List App
 
-- Reducers & rootReducer/combineReducers
+Basic app to learn and connect Redux with React.
 - Containers('Smart' Components)
+- Reducers & rootReducer/combineReducers
+- actions
 
 
 
